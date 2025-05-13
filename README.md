@@ -66,7 +66,7 @@ Date
 
 Page 1 –  Overview
 
-![1](https://github.com/user-attachments/assets/84565dc4-c22a-4113-9741-e9040b1fbe5c)
+![1](https://github.com/user-attachments/assets/d67ad60c-64ed-4a7f-8e78-9c799bccff84)
 
 
 Key metrics (Attrition Rate, Avg Satisfaction, Headcount)
