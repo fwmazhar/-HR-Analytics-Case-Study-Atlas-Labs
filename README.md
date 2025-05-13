@@ -71,7 +71,7 @@ Page 1 –  Overview
 
 Key metrics (Attrition Rate, Avg Satisfaction, Headcount)
 
-Filters: Department, Education Level
+Filters: Department
 
 Page 2 – Demographics Breakdown
 
