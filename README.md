@@ -24,7 +24,7 @@ Employee performance data
 
 Satisfaction and rating levels
 
-Education, demographics, and attrition status
+demographics, and attrition status
 
 Imported via CSV into Power BI
 
