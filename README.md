@@ -1,5 +1,7 @@
-📊 HR Analytics Case Study – Atlas Labs
-🏢 Project Overview
+# 📊 HR Analytics Case Study – Atlas Labs
+
+## 🏢 Project Overview
+
 This case study explores HR analytics for Atlas Labs, a tech company, aiming to:
 
 Monitor key employee metrics such as performance, satisfaction, and salary.
