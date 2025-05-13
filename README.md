@@ -66,11 +66,17 @@ Date
 
 Page 1 –  Overview
 
+![1](https://github.com/user-attachments/assets/84565dc4-c22a-4113-9741-e9040b1fbe5c)
+
+
 Key metrics (Attrition Rate, Avg Satisfaction, Headcount)
 
 Filters: Department, Education Level
 
 Page 2 – Demographics Breakdown
+
+![2](https://github.com/user-attachments/assets/0fd3e6f7-bdeb-4f68-9fc3-fe5414c95b41)
+
 
 Age group, Ethnicity, Education
 
@@ -78,11 +84,16 @@ Average salary by group
 
 Page 3 – Performance Tracker
 
+![3](https://github.com/user-attachments/assets/a5846a12-71b4-4bc6-b75c-00e127bd773d)
+
+
 Scatter plots showing rating vs. satisfaction
 
 Department-level comparisons
 
 Page 4  – Attrition Analysis
+
+![4](https://github.com/user-attachments/assets/2466b58e-7f16-4d4b-904c-83be065b8c04)
 
 Attrition trends over time
 
