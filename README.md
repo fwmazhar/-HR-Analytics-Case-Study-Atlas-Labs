@@ -8,24 +8,28 @@ Monitor key employee metrics such as performance, satisfaction, and salary.
 
 Understand the factors impacting employee attrition and provide actionable insights.
 
-🧱 Part 1: Data Modeling
-📌 Requirements
+## 🧱 Part 1: Data Modeling
+
+### 📌 Requirements
+
 Track and visualize employee KPIs.
 
 Detect patterns and trends influencing attrition.
 
 Create an efficient data model for analysis and performance.
 
-🔗 Data Sources & Connections
+### 🔗 Data Sources & Connections
+
 Employee performance data
 
 Satisfaction and rating levels
 
 Education, demographics, and attrition status
 
-Imported via Excel/CSV into Power BI
+Imported via CSV into Power BI
 
-🔄 Data Transformation
+### 🔄 Data Transformation
+
 Steps performed using Power Query:
 
 Removed nulls and handled blank values (replaced with 0)
@@ -38,12 +42,9 @@ Tenure from start date
 
 Age Group segmentation
 
-Attrition Flag (1 = Left, 0 = Active)
+### 🧩 Data Model (Snowflake Schema)
 
-🧩 Data Model (Snowflake Schema)
-Fact Table:
-
-Performance_Rating
+Fact Table: Performance_Rating
 
 Dimension Tables:
 
